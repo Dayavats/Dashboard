@@ -1,0 +1,16 @@
+{
+  "name": "dashboard-backend",
+  "version": "1.0.0",
+  "description": "Dashboard API with WebSocket support",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "cd server && node server.js",
+    "dev": "cd server && node server.js"
+  },
+  "keywords": [],
+  "author": "Dayavats",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
